@@ -17,4 +17,5 @@ jobs:
         run: |
           mkdir ./javadoc
           cd ./javadoc
+          cat > filename.txt
           pwd
