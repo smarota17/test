@@ -15,4 +15,4 @@ jobs:
           
       - name: Regenerate JavaDoc
         run: |
-          mkdir -p ./javadoc
+          mkdir -p /javadoc
